@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parker Feinerman
-- 👀 I’m interested in Software Engineering, Technical Consulting, and the FinTech industry
-- 🌱 I’m a Computer Science Engineering student at Cornell University's College of Engineering, graduating in August 2021
-- 💞️ I’m looking for new career opportunities and for new and interesting projects to work on
+- 💾 I’m interested in Software Engineering, Technical Consulting, and the FinTech industry
+- 🎓 I’m a Computer Science Engineering student at Cornell University's College of Engineering, graduating in August 2021
+- ⚡ I’m looking for new career opportunities and for new and interesting projects to work on
 - 📫 Email me at pjf73@cornell.edu or on add me on LinkedIn at linkedin.com/in/pfeinerman/
 
 <!---
